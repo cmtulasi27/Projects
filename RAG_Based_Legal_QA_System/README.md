@@ -39,7 +39,3 @@ It combines semantic search with a generative language model to provide **accura
 - Public legal awareness
 - E-governance support systems
 
-## Authors
-- C M Tulasi
-- Nidhi Desai
-- Devika Vijapur
